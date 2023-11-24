@@ -1,7 +1,7 @@
 # Backpropagation-A-Perspective-of-Matrix-Calculus
 Backpropagation holds critical importance in machine learning, enabling various deep models learnable. This project introduces a novel mathematical formulation for the Backpropagation algorithm in a closed-matrix form, relying solely on differential laws and matrix trace properties. Following the Backpropagation formulation introduced in the slides or paper of this repo, you will gain solid mathematical skills to draw the backpropagation process in a closed-matrix form step by step for almost any gradient based machine learning models.
 
-![image](https://github.com/yu-chern/Backpropagation-A-Perspective-of-Matrix-Calculus/assets/64321559/00b09176-a5b5-4996-ab48-9e3921250fd1)
+![image](https://github.com/yu-chern/Backpropagation-A-Perspective-of-Matrix-Calculus/assets/64321559/63fbab57-cf83-41a5-935e-dfa5b824bf1c)
 
 ![image](https://github.com/yu-chern/Backpropagation-A-Perspective-of-Matrix-Calculus/assets/64321559/53c3b821-a256-48e2-9f6b-11ea926350e9)
 
